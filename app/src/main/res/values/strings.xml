@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Combustivel</string>
+    <string name="txt_label_alcool">Qual o valor do litro do álcool?</string>
+    <string name="txt_label_gasolina">Qual o valor do litro do gasolina?</string>
+</resources>
